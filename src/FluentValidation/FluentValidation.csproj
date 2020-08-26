@@ -5,6 +5,9 @@
     <PackageReleaseNotes>
 FluentValidation 9 is a major release. Please read the upgrade notes at https://docs.fluentvalidation.net/en/latest/upgrading-to-9.html
 
+Changes in 9.3.0
+* Support for .NET 5
+
 Changes in 9.2.0:
 * Add inheritance validator
 * Performance improvements
